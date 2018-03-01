@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="20.792986in"
+   height="7.9770932in"
+   viewBox="0 0 1871.3687 717.93836"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="md5.svg"
+   inkscape:export-filename="/home/enzo/Documents/git/md5/md5-homepage/md5.png"
+   inkscape:export-xdpi="400.5"
+   inkscape:export-ydpi="400.5">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="849.26423"
+     inkscape:cy="403.59843"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1440"
+     inkscape:window-height="844"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(770.99654,-599.73386)">
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:591.26379395px;line-height:125%;font-family:Raleway;-inkscape-font-specification:Raleway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text3336"
+       transform="matrix(1.7272317,0,0,1.7272317,560.69309,-958.25295)">
+      <path
+         d="m -711.27887,1026.1792 108.20127,160.8237 33.70204,0 108.20127,-160.8237 0,291.493 59.12638,0 0,-413.88461 -47.3011,0 -136.58194,201.02971 -136.58194,-201.02971 -48.48363,0 0,413.88461 59.71765,0 0,-291.493 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Code Bold';-inkscape-font-specification:'Code Bold,  Bold'"
+         id="path3368"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -294.41941,1257.9546 0,-293.85811 88.68957,0 c 95.78473,0 144.268365,73.90801 144.268365,147.22471 0,73.3167 -48.483635,146.6334 -144.268365,146.6334 l -88.68957,0 z m -59.71764,-353.57575 0,413.29335 148.40721,0 c 135.399408,0 203.3947443,-102.8799 203.3947443,-206.351 0,-103.4712 -67.9953363,-206.94235 -203.3947443,-206.94235 l -148.40721,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Code Bold';-inkscape-font-specification:'Code Bold,  Bold'"
+         id="path3370"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19.772628,1223.6613 c 24.241815,61.4914 72.134183,94.0109 141.312042,94.0109 100.51485,0 151.9548,-72.1341 151.36354,-144.2683 -0.59127,-53.805 -29.56319,-104.6537 -86.91578,-128.3043 -45.52731,-18.3291 -94.60221,-17.1466 -140.129521,-2.365 l 0,-82.77695 203.394741,0 0,-57.94386 -263.703648,0 0,196.89081 33.702036,15.3729 c 49.074892,-28.9719 96.376002,-33.702 145.450892,-13.5991 31.33698,13.5991 47.89237,43.7535 47.89237,72.7255 0.59126,42.571 -29.56319,83.9594 -91.05463,83.9594 -40.7972,0 -69.769123,-22.468 -86.324509,-56.17 l -54.987533,22.468 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Code Bold';-inkscape-font-specification:'Code Bold,  Bold'"
+         id="path3372"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
